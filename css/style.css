@@ -1,0 +1,41 @@
+.container, .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+}
+
+.container span {
+    color: whitesmoke;
+    margin: 10px 0;
+    width: 80%;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 15px;;
+}
+
+.header {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #9F2063;
+}
+
+.content {
+    background-color: #24BB7C;
+}
+
+.content span {
+    width: 95%;
+}
+
+.article {
+    background-color: #E4195B;
+}
+
+.aside {
+    background-color: #116395;
+}
+
+.footer {
+    background-color: #F9A800;
+}

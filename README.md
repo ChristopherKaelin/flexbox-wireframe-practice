@@ -11,5 +11,8 @@
 + [x] Paste the CSS from the reset below into reset.css
 + [x] Link your reset to either your HTML or import it at the beginning of your style.css file. There are examples below of how to do this
 + [x] Save the following image as mobile-wireframe.png and place it in the root level of your project
-+ [ ] Recreate and style the layout from the wireframe below as best as you can
-+ [ ] Submit the link to your repository once all work is completed and pushed to GitHub
+
+    ![image](mobile-wireframe.png)
+
++ [x] Recreate and style the layout from the wireframe below as best as you can
++ [x] Submit the link to your repository once all work is completed and pushed to GitHub
