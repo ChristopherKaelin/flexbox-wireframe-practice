@@ -1,4 +1,4 @@
-# 🔭 Build the Wireframe with Flexbox: Part 1
+# 🔭 Build the Wireframe with Flexbox
 
 ## Instructions
 
@@ -15,10 +15,8 @@
 + [x] Save the following image as mobile-wireframe.png and place it in the root level of your project
 
     ![image](mobile-wireframe.png)
-
 + [x] Recreate and style the layout from the wireframe below as best as you can
 + [x] Submit the link to your repository once all work is completed and pushed to GitHub
-
 
 ### Part 2
 
@@ -26,6 +24,5 @@
 + [x] Save the following image as desktop-wireframe.png and place it in the root level of your project
 
     ![image](desktop-wireframe.png)
-
 + [x] Update style.css to include a media query that will update the page's layout to match the wireframe below as much as possible
 + [x] Submit the link to your repository once all work is completed and pushed to GitHub
